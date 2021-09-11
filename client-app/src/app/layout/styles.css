@@ -1,0 +1,11 @@
+body {
+  background-color: #FFE0A3 !important;
+}
+
+.ui.top.fixed.menu {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.ui.cards>.cards {
+}
